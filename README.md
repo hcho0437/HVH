@@ -1,7 +1,7 @@
 # HVH
 .
 <img src ="https://github.com/hcho0437/HVH/blob/master/ScreenShots/title.png" height ="250px">
-<img src ="https://github.com/hcho0437/HVH/blob/master/ScreenShots/game_1.png" height ="200px">
+<img src ="https://github.com/hcho0437/HVH/blob/master/ScreenShots/game_1.png" height ="250px">
 
 <html>
   <h1>Save the heaven from the Satan...</h1>
