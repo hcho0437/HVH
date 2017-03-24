@@ -7,5 +7,5 @@
   <h1>Save the heaven from the Satan...</h1>
   <h2>You take halos and powerup(upgrade) yourself.</h2>
   <h2> Defeat the Satan on Lv20...</h2>
-  <h2><a href ="http://www.pygame.org/downloads/">Python<h2><h3>-Download Python</h3>
+  <h2><a href ="http://www.pygame.org/downloads/">Python<h2><a>-Download Python
 </html>
