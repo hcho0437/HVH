@@ -1,13 +1,13 @@
 # HVH
 <html>
   <head>
-  <p> This is my game project. We used images from the internet. We have 3 levels to defeat(easy, hard, very hard).
+    <h1> This is my game project. We used images from the internet. We have 3 levels to defeat(easy, hard, very hard).</h1>
+    <img src ="https://github.com/hcho0437/HVH/blob/master/ScreenShots/title.png" height ="400px">
+    <img src ="https://github.com/hcho0437/HVH/blob/master/ScreenShots/game_1.png" height ="200px">
+    <img src ="https://github.com/hcho0437/HVH/blob/master/ScreenShots/game_2.png" height ="200px">
   <head>
-  <img src ="https://github.com/hcho0437/HVH/blob/master/ScreenShots/title.png" height ="400px">
-  <img src ="https://github.com/hcho0437/HVH/blob/master/ScreenShots/game_1.png" height ="200px">
-  <img src ="https://github.com/hcho0437/HVH/blob/master/ScreenShots/game_2.png" height ="200px">
   <body>
-    <h1>Save the heaven from the Satan...</h1>
+    <h2>Save the heaven from the Satan...</h2>
     <h2>You take halos and powerup(upgrade) yourself.</h2>
     <h2> Defeat the Satan on Lv20...</h2>
     <h3> Number 1 = Max Health</h3>
