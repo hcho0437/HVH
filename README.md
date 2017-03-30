@@ -3,8 +3,8 @@
   <head>
     <h1> This is my game project. We used images from the internet. We have 3 levels to defeat(easy, hard, very hard).</h1>
     <img src ="https://github.com/hcho0437/HVH/blob/master/ScreenShots/title.png" height ="400px">
-    <img src ="https://github.com/hcho0437/HVH/blob/master/ScreenShots/game_1.png" height ="200px">
-    <img src ="https://github.com/hcho0437/HVH/blob/master/ScreenShots/game_2.png" height ="200px">
+    <img src ="https://github.com/hcho0437/HVH/blob/master/ScreenShots/game_1.png" height ="220px">
+    <img src ="https://github.com/hcho0437/HVH/blob/master/ScreenShots/game_2.png" height ="220px">
   <head>
   <body>
     <h2>Save the heaven from the Satan...</h2>
