@@ -18,6 +18,7 @@
     <h3> Number 6 = Penetrate(missiles go thought monsters</h3>
     <h3> Number 7 = Percent Damage on boss</h3>
     <h2> *You need Python and Pygame
+    <h2><a href ="https://www.python.org/downloads/">Click Here<a>←←←Download Python<h2>
     <h2><a href ="http://www.pygame.org/download.shtml">Click Here<a>←←←Download Pygame<h2>
   <body>
 <html>
