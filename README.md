@@ -1,4 +1,4 @@
-# HVH
+# HVH(Heaven vs Hell)
 <html>
   <head>
     <h1> This is my game project. We used images from the internet. We have 3 levels to defeat(easy, hard, very hard).</h1>
